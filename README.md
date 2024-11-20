@@ -1,9 +1,9 @@
-  # Hi there, I'm Bikash Pandey 👋
+<h1 align="center">Hi 👋, I'm Bikash Pandey</h1>
+<p>
+  
+I'm a passionate **Laravel developer** with a focus on building scalable, full-stack web applications. I specialize in <strong>Laravel</strong>, <strong>Inertia.js</strong>, <strong>ReactJS</strong>, and have extensive experience in creating <strong>multi-tenancy web apps</strong>. I enjoy crafting solutions that deliver seamless user experiences on both the backend and frontend.
 
-I'm a passionate **Laravel developer** with a focus on building scalable, full-stack web applications. I specialize in **Laravel**, **Inertia.js**, **React.js**, and have extensive experience in creating **multi-tenancy web apps**. I enjoy crafting solutions that deliver seamless user experiences on both the backend and frontend.
-
-Feel free to explore my work and get in touch if you’re interested in collaborating!
-
+</p>
 ---
 
 ## 🚀 Technologies & Tools
@@ -29,9 +29,22 @@ Feel free to explore my work and get in touch if you’re interested in collabor
 
 ---
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikash-pandey-np&label=Profile%20views&color=0e75b6&style=flat" alt="bikash-pandey-np" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikash-pandey-np" alt="bikash-pandey-np" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikash-pandey-np&show_icons=true&locale=en&layout=compact" alt="bikash-pandey-np" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikash-pandey-np&show_icons=true&locale=en" alt="bikash-pandey-np" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikash-pandey-np&" alt="bikash-pandey-np" /></p>
+
 ## 💻 Projects
 
 Here are some of the projects I have worked on:
+
+- 🔭 I’m currently working on **Courrier Management System with portal for admin, customers, shippers, drivers.**
 
 ### 1. **SmartGau Ecommerce Store**
    - **Description**: A full-featured eCommerce platform built to manage products, orders, and customer interactions.
@@ -53,33 +66,9 @@ Here are some of the projects I have worked on:
 
 You can find more of my work in the [Repositories section](https://github.com/bikash-pandey-np).
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/bikash-pandey-np/bikash-pandey-np](https://github.com/bikash-pandey-np/bikash-pandey-np)
 
-## 🌱 What I’m Currently Learning
+- 💬 Ask me about **Laravel, InertiaJS, Reactjs**
 
-- Advanced **state management** with **React Query** and **Redux**.
-- **Server-Side Rendering (SSR)** with React for better performance and SEO.
-- Building **microservices** with **Laravel Lumen**.
-- Exploring **Tailwind CSS** for even more flexibility in UI design.
-
----
-
-## 📫 Get in Touch
-
-Feel free to reach out to me:
-
-- **Email:** [bikashaya@gmail.com](mailto:bikashaya@gmail.com)
-- **LinkedIn:** [Bikash Pandey](https://www.linkedin.com/in/bikash-pandey-np/?originalSubdomain=np)
-
----
-
-## 🛠️ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bikash-pandey-np&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" alt="Bikash Pandey's GitHub Stats" />
-</div>
-
----
-
-Thanks for visiting my profile! 😄
+- 📫 How to reach me **bikashaya@gmail.com**
 
